@@ -1,16 +1,14 @@
 ---
-title    : Lecture 01
+title    : Lecture 03
 subtitle : My Lectures
 author   : Poirot
 mode     : selfcontained # {standalone, draft}
-url      : {lib: "../../libraries"}
-assets:
-  css: "http://nicolasgallagher.com/lab/css3-github-buttons/gh-buttons.css"
+url      : {lib: "../../libraries", assets: "../../assets"}
 ---
 
 ## Introduction
 
-This is the first lecture
+This is the third lecture
 
 
 
