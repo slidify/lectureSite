@@ -7,7 +7,9 @@ mode        : selfcontained
 github      : {user: slidify, repo: lectureSite, branch: gh-pages}
 ---
 
-# Course Title
+# Course Title 
+
+<a href="http://prose.io/#{{site.github.user}}/{{site.github.repo}}/edit/gh-pages/index.Rmd" class="button icon edit">Edit Page</a>
 
 ```{r setup, cache = F, echo = F}
 knitr::knit_hooks$set(document = function(doc){
